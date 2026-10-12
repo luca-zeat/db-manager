@@ -192,3 +192,4 @@ $RECYCLE.BIN/
 *.lnk
 .directory
 .Trash-*
+Properties/PublishProfiles/FolderProfile.pubxml
